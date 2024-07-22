@@ -1,9 +1,0 @@
-body {
-    margin: 0;
-    background: mistyrose;
-    text-align: center;
-    background-image: url('images/niamhy.jpg');
-    background-size: cover; /* Makes the background image cover the entire screen */
-    background-position: center; /* Centers the background image */
-    background-repeat: no-repeat; /* Prevents the background image from repeating */
-}
